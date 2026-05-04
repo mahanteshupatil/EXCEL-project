@@ -42,8 +42,3 @@ An interactive dashboard analyzing Swiggy's food delivery sales data across Indi
 3. Use slicers on left to filter by Month, Restaurant, Category
 4. Dashboard updates automatically
 
-## 📌 Skills Demonstrated
-- Data Cleaning & Transformation
-- Dashboard Design & Storytelling
-- Business Analysis & Insight Generation
-- Excel Advanced Functions + Data Visualization
