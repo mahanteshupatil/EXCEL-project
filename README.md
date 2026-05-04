@@ -33,7 +33,7 @@ An interactive dashboard analyzing Swiggy's food delivery sales data across Indi
 4. **Q3 Drop**: Q3 sales ₹13.44M vs Q1 ₹19.67M. Investigate seasonality and run Q3 promotions.
 
 ## 🚀 How to Use
-1. Download `Swiggy_Dashboard.xlsx`
+1. Download `Swiggy Raw Data Excel.xlsx`
 2. Open in MS Excel 2016+ or Office 365
 3. Use slicers on left to filter by Month, Restaurant, Category
 4. Dashboard updates automatically
