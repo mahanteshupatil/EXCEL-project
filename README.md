@@ -5,6 +5,10 @@
 ## 📊 Project Overview
 An interactive dashboard analyzing Swiggy's food delivery sales data across India. This project identifies key business trends like top-performing cities, food preferences, and monthly sales patterns to help drive data-driven decisions.
 
+## Dashboard Preview
+<img width="1113" height="747" alt="SWIGGY dashboard image" src="https://github.com/user-attachments/assets/2915e959-a70b-4d4c-bebc-cd59b6bcb1de" />
+
+
 ## 🔑 Key Insights
 | **Metric** | **Value** | **Insight** |
 | --- | --- | --- |
