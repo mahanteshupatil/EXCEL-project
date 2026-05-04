@@ -1,6 +1,6 @@
 # Swiggy Sales Analysis Dashboard - Excel
 
-> Analyzed 197K+ Swiggy orders to find Bengaluru drives ₹5.46M sales & Non-Veg is 63% of revenue
+ Analyzed 197K+ Swiggy orders to find Bengaluru drives ₹5.46M sales & Non-Veg is 63% of revenue
 
 ## 📊 Project Overview
 An interactive dashboard analyzing Swiggy's food delivery sales data across India. This project identifies key business trends like top-performing cities, food preferences, and monthly sales patterns to help drive data-driven decisions.
